@@ -64,6 +64,7 @@
     </types>
     <types>
         <members>Crew_Capacity__c-Crew Capacity Layout</members>
+        <members>FlowRecord-Flow Layout</members>
         <members>Installation__c-Installation Layout</members>
         <members>Panel_Batch__c-Panel Batch Layout</members>
         <name>Layout</name>

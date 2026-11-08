@@ -1,0 +1,9 @@
+commandsPostDeploy:
+  - id: 4313f9d6-ef43-4faa-ac0d-cc5154d6d915
+    label: Fix data issue
+    type: data
+    command: ""
+    parameters:
+      sfdmuProject: Handover-Item-Templates
+    runOnlyOnceByOrg: true
+    context: process-deployment-only
